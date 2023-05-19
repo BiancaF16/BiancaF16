@@ -6,4 +6,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaF16&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
-  <img height="170em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img height="20em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
