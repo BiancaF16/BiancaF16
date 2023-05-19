@@ -6,4 +6,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaF16&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
- <a href="https://instagram.com/biflorenciolz?igshid=MzRlODBiNWFlZA==" <img height="30em" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"/>
+ <a href="https://instagram.com/biflorenciolz?igshid=MzRlODBiNWFlZA=="> <img height="30em" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"/> </a>
