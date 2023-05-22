@@ -7,6 +7,6 @@
 </div>
 
 <div>
-<li> <a href="https://www.instagram.com/biflorenciolz/"> <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="bibi.florencio24@gmail.com"> <img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </li>
+<a href="https://www.instagram.com/biflorenciolz/"> <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/1/#inbox"> <img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
